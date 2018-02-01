@@ -12,4 +12,4 @@ Simple monitoring for important OTRS tickets
     
     3. Настроить Apache + CGI
     
-by Snoz
+by Snoz.
